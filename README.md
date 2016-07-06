@@ -10,6 +10,6 @@ This example code passes serial data between an Arduino's serial monitor
  
  For assistance on configuring two XBees, check out Digi's Tutorials:
  
- XBee Series 1: http://examples.digi.com/get-started/basic-xbee-802-15-4-chat/
+     XBee Series 1: http://examples.digi.com/get-started/basic-xbee-802-15-4-chat/
  
- XBee Series 2: http://examples.digi.com/get-started/basic-xbee-zb-zigbee-chat/
+     XBee Series 2: http://examples.digi.com/get-started/basic-xbee-zb-zigbee-chat/
