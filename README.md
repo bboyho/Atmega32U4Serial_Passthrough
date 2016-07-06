@@ -1,4 +1,4 @@
-# Atmega32U4 Serial Passhthrough
+# Atmega32U4 Serial Passthrough
 This example code passes serial data between an Arduino's serial monitor
  and a device connected to an Atmega32U4's hardware UART (pin 0 and 1).
  Characters sent through the serial monitor will display it back on the
